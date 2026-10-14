@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "documents": [
+    {
+      "id": "01a138ba-ca54-7bf8-ac7d-c0ece56f21ec",
+      "source": {
+        "kind": "managed",
+        "path": "documents/BRD_Tools_Monitoring,_Rekonsiliasi_dan_Settlement_Transaksi_Jasa.pdf"
+      },
+      "sha256": "687a30d81bd56f0bf22291fb1efe1751f44d31e22f49ba1460032383e5bc47d6",
+      "bytes": 1907791,
+      "indexed_at": "2026-10-14T04:45:27.973Z",
+      "extraction": {
+        "state": "extractor_unavailable",
+        "extractor": {
+          "name": "pdftotext"
+        },
+        "detectedType": "application/pdf"
+      },
+      "summary": {
+        "state": "absent"
+      }
+    }
+  ]
+}
